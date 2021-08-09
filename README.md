@@ -1,5 +1,5 @@
 
-### Hi there, I'm Jisu OH 👋
+## Hi there, I'm Jisu OH 👋
 
 ##### I'm Jisu OH, I am a hard working developer.<br>
 
