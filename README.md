@@ -1,7 +1,7 @@
 
-## Hi there, I'm Jisu OH 👋
+## Hi there, I'm Jaeny 👋
 
-##### I'm Jisu OH, I am a hard working developer.<br>
+##### I'm Jaeny, I am a hard working developer.<br>
 
 ##### 🛠️ Tech Stack 🛠<br>
 Techs that I've used at least once<br><br>
