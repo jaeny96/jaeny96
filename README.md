@@ -1,6 +1,5 @@
 
 ## Hi there, I'm Jaeny 👋
-<hr>
 ##### 안녕하세요, 현재 풀스택 개발 공부를 하고 있는 오지수입니다.<br>
 ##### I'm Jaeny, I am a hard working developer.<br>
 
