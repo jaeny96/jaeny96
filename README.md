@@ -31,8 +31,7 @@ Techs that I've used at least once<br><br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
-<br>
 
-⛳ Github Statement<br><br>
+⛳ Github Statement<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeny96&show_icons=true&theme=vision-friendly-dark)
 <br><br><br><br>
