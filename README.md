@@ -34,5 +34,5 @@ Techs that I've used at least once<br><br>
 <br>
 
 ⛳ Github Statement<br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeny96&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeny96&show_icons=true&theme=vision-friendly-dark)
 <br><br><br><br>
