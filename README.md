@@ -1,7 +1,7 @@
 
 ## Hi there, I'm Jaeny 👋
-##### 안녕하세요, 현재 웹 풀스택 개발 공부를 하고 있는 오지수입니다.<br>
-##### I'm Jaeny, I am a hard working developer.<br>
+##### 안녕하세요, 웹 개발자 오지수입니다.<br>
+##### I'm Jaeny, I am a web developer.<br>
 
 
 ##### 🛠️ Tech Stack 🛠<br>
